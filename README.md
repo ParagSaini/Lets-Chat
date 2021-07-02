@@ -1,4 +1,3 @@
 
-# Lets Chatting
+# Lets Chat
 A flutter based Chatting app. 
-"# Lets-chat" 
